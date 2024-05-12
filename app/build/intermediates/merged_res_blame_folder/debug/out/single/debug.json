@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_location.png.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_location.png"
+    },
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_location.png.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_location.png"
+    },
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_location.png.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_location.png"
+    },
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_location.xml.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\drawable_owner.png.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\src\\main\\res\\drawable\\owner.png"
+    },
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_messanger.xml.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\src\\main\\res\\drawable\\ic_messanger.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\font_sailec_bold.otf.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\src\\main\\res\\font\\sailec_bold.otf"
+    },
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\font_sailec_regular.otf.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\src\\main\\res\\font\\sailec_regular.otf"
+    },
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\drawable_blue_dog.jpg.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\src\\main\\res\\drawable\\blue_dog.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_location.png.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_location.png"
+    },
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\drawable_yellow_dog.jpg.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\src\\main\\res\\drawable\\yellow_dog.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\drawable_white_cat.jpeg.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\src\\main\\res\\drawable\\white_cat.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\drawable_orange_dog.jpg.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\src\\main\\res\\drawable\\orange_dog.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_light_on.xml.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\src\\main\\res\\drawable\\ic_light_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\drawable_pawfect_logo.jpg.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\src\\main\\res\\drawable\\pawfect_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_owner.jpg.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\src\\main\\res\\drawable-v24\\owner.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\font_sailec_medium.otf.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\src\\main\\res\\font\\sailec_medium.otf"
+    },
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_location.png.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_location.png"
+    },
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\drawable_red_dog.jpg.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\src\\main\\res\\drawable\\red_dog.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_location.png.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_location.png"
+    },
+    {
+        "merged": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Nithins\\.android\\ANDROID\\Pawfect\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    }
+]
